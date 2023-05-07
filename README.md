@@ -22,7 +22,7 @@ python과 일렉트론을 사용한 웹캠 가상배경 프로그램
 - 가상 배경 이미지 변경
 <hr/>
 
-### 설치방법
+### 설치 및 사용방법
 #### Windows
 (제대로 설치가 가능한 패키지는 Electron.js 연동 후 패키징 할 예정)
 
@@ -30,6 +30,7 @@ python과 일렉트론을 사용한 웹캠 가상배경 프로그램
 alert창 확인 후 캠목록을 확인하면 설정한 이름을 가진 가상캠 확인 가능
 2. opencv_pyvirtualcam.py에 있는 모듈 설치 후
 python opencv_pyvirtualcam.py 실행
+3. 종료는 ESC키를 입력하면 됨
 
 ## 프로젝트 진행 사항
 python만 사용하여서 캠을 컨트롤 하는 부분은 성공하였으나 Electron.js를 사용하여 웹 연동하는 부분에 에러 때문에 upload 하지 않았음
