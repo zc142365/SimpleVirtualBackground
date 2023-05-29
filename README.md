@@ -26,6 +26,7 @@ python과 일렉트론을 사용한 웹캠 가상배경 프로그램
 #### Windows
 (제대로 설치가 가능한 패키지는 Electron.js 연동 후 패키징 할 예정)
 
+(FastAPI 적용중이라 코드 작동 안함)
 1. UnityCaptureFilter 폴더에 있는 InstallCustomName.bat을 실행하고 만들 가상캠의 이름을 설정 후 Enter를 하면 설치되었다는 alert창이 뜸
 alert창 확인 후 캠목록을 확인하면 설정한 이름을 가진 가상캠 확인 가능
 2. opencv_pyvirtualcam.py에 있는 모듈 설치 후
