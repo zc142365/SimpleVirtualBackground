@@ -10,7 +10,7 @@ python과 일렉트론을 사용한 웹캠 가상배경 프로그램
 - OS: windows
 - development language: python(3.10), Javascript
 - Framework: Electron.js, Node.js
-- Connection: Socket
+- Connection: FastAPI
 <hr/>
 
 ### 기능
